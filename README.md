@@ -6,6 +6,6 @@ Key Features:
 Dataset Analysis: Leveraged an open-source pizza sales dataset to perform detailed SQL queries.
 SQL Mastery: Applied a range of SQL functions and complex joins to uncover meaningful insights.
 Tools & Technologies: SQL Workbench for query execution, data manipulation, and analysis. 
-Outcome: This project not only sharpened my SQL skills but also provided a deeper understanding of how data can be transformed into actionable insights. The project is documented thoroughly, with all queries and results available on GitHub.
+Outcome: This project not only sharpened my SQL skills but also provided a deeper understanding of how data can be transformed into actionable insights.
 
 Connect with me on LinkedIn: [ https://www.linkedin.com/in/harsh-sharma-03865a24b]
